@@ -8,15 +8,14 @@
 		<h1>SY Counter</h1>
 		</div>
 		<Counter />
-	</div>
+		</div>
+
 	</main>
 	
 	
 	<style>
-	
+
 		#page-container {
-			display: flex;
-			justify-content: center;
 			align-items: center;
 		}
 	
@@ -30,10 +29,10 @@
 			display: inline-flex;
 			justify-content: center;
 			align-items: center;
-			font-size: 67px;
+			font-size: 50px;
 			letter-spacing: 34px;
-			width: 70%;
-			height: 20vh;
+			width: 60%;
+			height: 15vh;
 			color: #31fde2;
 			background-color: #007fff;
 			border-style: double;
